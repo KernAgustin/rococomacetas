@@ -1,0 +1,48 @@
+{
+	"titleSection":{
+		"title":	"mi sitio web",
+		"styles":{
+			"color":"red"
+			}
+	 },
+
+"productos":[
+		{	"code" :"01",
+			"name":"MACETA TIPO 01",
+			"precio":"10000",
+			"categoria":"MACETA 01", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_01.webp"      
+		},
+		{	"code" :"02",
+			"name":"MACETA TIPO 02",
+			"precio":"9000",
+			"categoria":"MACETA 02", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_02.webp"      
+		},
+		{	"code" :"03",
+			"name":"MACETA TIPO 03",
+			"precio":"9000",
+			"categoria":"MACETA 03", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_03.webp"      
+		}
+],
+
+    "projects":[
+        {"name": "coderhouse",
+            "precio":"1000"
+        },
+        {"name": "pepe",
+            "precio":"2000"},
+        {"name": "tata",
+            "precio":"3000"}
+    ],
+    "contact":{
+        "phone":"1231321321",
+        "email":"example@example.com",
+        "addres":"av siempre viva"
+    }
+}
+	
