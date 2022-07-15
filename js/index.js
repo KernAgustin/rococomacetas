@@ -7,7 +7,6 @@ class Product {
         this.code = code;
         this.name = name;
         this.precio = precio;
-        this.talles = [];
         this.categoria=categoria;
         this.descripcion=descripcion;
         this.imagen=imagen;
