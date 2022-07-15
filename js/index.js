@@ -81,7 +81,7 @@ if (almacenados !=null && almacenados.length!=0) {
   }
 
   const fetchLocalData = () => {
-	fetch('https://github.com/KernAgustin/rococomacetas/blob/master/data.json').then((response) =>response.json())
+	fetch('https://kernagustin.github.io/rococomacetas/data.json').then((response) =>response.json())
 	.then((result)=>{
 		ListaDeProductos(result.productos)
 
