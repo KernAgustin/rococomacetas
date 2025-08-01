@@ -8,7 +8,7 @@ function realizarCompra()
          {Swal.fire({
             position: 'center',
             icon: 'success',
-            title: 'Muchas gracias por tu compra, ha sido realizada! Para terminar concretar el envio del producto y el pago, contactate con el siguiente numero: 3364 60-7243',
+            title: 'Muchas gracias por tu compra, ha sido realizada! Para terminar concretar el envio del producto y el pago, contactate con el siguiente numero: 3364 34-9150',
             showConfirmButton: true,
           })
                 guardarLocal("listaProductos", JSON.stringify([]));
